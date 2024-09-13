@@ -13,7 +13,11 @@ The parameters I used to create this font are as follows:
 The unit width has been reduced a bit to give it a compact feel. The pen width has been reduced significantly and the glyph angle increased to give it an alien vibe. The pen angle has been left untouched. Overall, these design decisions create a weird, flamboant style that is not commonly used in day-to-day life, and that's the intent.
 
 # Done By:
+
 Monis Khursheed
+
 2021UCS1711
+
 CSE-2
+
 Semester-7th
